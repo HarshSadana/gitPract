@@ -6,3 +6,6 @@ physical Appearance ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 
 Adding more changes for the new branch.
 
+Adding changes for the stash, in the new branch.
+
+Adding more changes for the new commit.
